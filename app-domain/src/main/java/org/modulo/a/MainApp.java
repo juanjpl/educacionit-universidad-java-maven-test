@@ -1,6 +1,5 @@
-package org.modulo.a;
+package org.app.domain;
 
-import org.modulo.b.App;
 
 public class MainApp 
 {
@@ -8,8 +7,6 @@ public class MainApp
     {
        
     	//Crear una instancia del modulo-b
-    	var app = new App();
-    	
-    	System.out.println("Fin de modulo-a");
+
     }
 }

@@ -5,20 +5,16 @@
   <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>artefacto padre</name>
-  
   <properties>
-  
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    
     <maven.compiler.source>21</maven.compiler.source>
     <maven.compiler.target>21</maven.compiler.target>
   </properties>
-  
-  
-  
-  
   <modules>
     <module>app-domain</module>
     <module>app-repository</module>
+    <module>app-service</module>
+    <module>app-web</module>
+    <module>app-console</module>
   </modules>
 </project>

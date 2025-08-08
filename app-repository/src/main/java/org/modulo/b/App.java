@@ -1,4 +1,4 @@
-package org.modulo.b;
+package org.app.repository;
 
 
 public class App 
